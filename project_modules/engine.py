@@ -1,5 +1,5 @@
 import torch
-from tdqm.auto import tqdm
+from tqdm.auto import tqdm
 from typing import Dict, List, Text
 
 def train_step(
